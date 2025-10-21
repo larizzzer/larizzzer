@@ -2,7 +2,7 @@
 
 **`Futura Engenheira de Dados`**
 
-Me chamo Larissa Gomes Gaspar, tenho 23 anos e sou de São Paulo. Concluí Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul e estou pretendendo fazer outra faculdade. Sou apaixonada por tecnologia desde criança e esse amor me acompanha até hoje e inclusive me ajudou a escolher a carreira que eu quero. Tenho me dedicado ao estudo de SQL para criação e manipulação de bancos de dados, e em breve seguirei com Python, com foco em automação e análise de dados.
+Me chamo Larissa Gomes Gaspar, tenho 23 anos e sou de São Paulo. Concluí Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul e estou pretendendo fazer outra faculdade. Sou apaixonada por tecnologia desde criança e esse amor me acompanha até hoje e inclusive me ajudou a escolher a carreira que eu quero. Tenho me dedicado ao estudo de SQL para criação e manipulação de bancos de dados, e em breve seguirei com Python, com foco em análise de dados.
 Meu objetivo é evoluir continuamente para atuar como Engenheira de Dados.
 
 ### 🤖 Linguagens e Tecnologias
