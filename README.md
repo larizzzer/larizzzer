@@ -46,6 +46,8 @@ Meu objetivo é evoluir continuamente para atuar como Engenheira de Dados.
 
 🔹 [Curso de Aplicação de Banco de Dados - Qualifica SP](https://github.com/larizzzer/aplicacao-banco-de-dados)  
 
+🔹 [Bootcamp de Back-End com Python - DIO/Luizalabs](https://github.com/larizzzer/BackEndComPython)  
+
 
 ### 📊 Estatísticas
 
