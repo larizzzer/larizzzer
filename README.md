@@ -1,9 +1,17 @@
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Matrix Banner"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=BEM-VINDO!" alt="Bem-vindo" />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Matrix Banner"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Data+Analytics+Student;Cloud+AWS+Enthusiast;Future+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8d42f5&center=true&vCenter=true&random=false&width=435&lines=Data+Analytics;Cloud+Computing+|+AWS" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-gomes-gaspar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagomesgaspar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larizzzer)
+
 </div>
 
 ## 👨‍💻 Sobre mim
@@ -26,7 +34,7 @@ class DataAnalyst:
 ```
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Competências Técnicas
 
 <div align="center">
 
@@ -36,12 +44,12 @@ class DataAnalyst:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & Ferramentas
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📚 Learning
+### 📚 Aprendendo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -56,15 +64,11 @@ class DataAnalyst:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizzzer&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larizzzer&theme=github-dark-blue&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🎯 Foco Atual
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ5aGQ3anptMnBjcWh6YnRrYzd1eTJwZ2pzbGRwNzYyNXBkYjBkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTk0OGwxdXNnYTNwbnZ4cHQyOGZhcWpjMmdlc3N5aDBsb28yMjE5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sZPQXNBBN7mbDALod9/giphy.gif" width="300"/>
 
 - 📊 Desenvolvendo habilidades em **Data Analytics**
 - ☁️ Estudando para certificação Cloud Pratictioner da **AWS**
@@ -99,19 +103,7 @@ class DataAnalyst:
 <tr>
 </table>
 
-### 📌 Outros Projetos
-
-- **🔹 [Dashboard Power BI]** - Visualização de dados de vendas/marketing - **Em Andamento**
-- **🔹 [Análise de Dados - Dataset X]** - Análise exploratória com Python e Pandas - **Em Breve**
-
----
-
-## 📫 Vamos Conectar?
-
+### Aleatoridades
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-gomes-gaspar/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagomesgaspar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larizzzer)
-
+  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czM2dTFpZDhhNm5mb3p6cGI5ZGJrazFnMTgyMzhwMHRldzY1eTk0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eyEYDBQE2zu3bwIJAP/giphy.gif" alt="Matrix Banner"/>
 </div>
