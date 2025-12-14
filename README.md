@@ -131,4 +131,10 @@ Curiosidades:
 Filosofia_de_vida:
 "Se eu não sei, fuço até descobrir como saber."
 "Café não resolve meus problemas e faz eu ir no banheiro."
-"Não estou pedindo para você nunca desistir, às vezes você precisa deixar ir. Só não deixe ninguém mudar quem você é."
+"Não estou pedindo para você nunca desistir, às vezes você precisa deixar ir.
+ Só não deixe ninguém mudar quem você é."
+```
+
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Matrix Banner"/>
+</div>
