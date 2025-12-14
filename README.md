@@ -109,7 +109,7 @@ class DataAnalyst:
 
 ```yaml
 Personalidade:
-  café: "☕ Nescau e música são os meus combustíveis essenciais para começar o dia"
+  de_manhã: "☕ Nescau e música são os meus combustíveis essenciais para começar o dia"
   música_a_qualquer_momento: "🎵 Indie, Lo-Fi, Rock e Pop"
   atualmente_jogando: "Red Dead Redemption 2, Life Is Strange"
   o_que_eu_amo: "GATOS"
