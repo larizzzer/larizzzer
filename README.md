@@ -2,7 +2,7 @@
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Matrix Banner"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8d42f5&center=true&vCenter=true&random=false&width=435&lines=Data+Analytics;Cloud+Computing+|+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8d42f5&center=true&vCenter=true&random=false&width=435&lines=Data+Analytics;Cloud+Computing+|+AWS;Python;MySQL+|+T-SQL;Power+BI" alt="Typing SVG" />
 </div>
 
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-gomes-gaspar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagomesgaspar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larizzzer)
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/larizzzer)
 
 </div>
 
@@ -21,7 +21,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Larissa Gomes Gaspar"
         self.age = "23"
-        self.location = "São Paulo, Brazil 🇧🇷"
+        self.location = "São Paulo, Brasil 🇧🇷"
         self.current_focus = "Data Analytics & Cloud AWS"
         
     def daily_routine(self):
@@ -57,18 +57,9 @@ class DataAnalyst:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larizzzer&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizzzer&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
----
-
 ## 🎯 Foco Atual
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTk0OGwxdXNnYTNwbnZ4cHQyOGZhcWpjMmdlc3N5aDBsb28yMjE5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sZPQXNBBN7mbDALod9/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 - 📊 Desenvolvendo habilidades em **Data Analytics**
 - ☁️ Estudando para certificação Cloud Pratictioner da **AWS**
@@ -89,21 +80,55 @@ class DataAnalyst:
 <h3 align="center">📊 Sistema de Gestão de Biblioteca Universitária</h3>
 <div align="center">
 <a href="https://github.com/larizzzer/Sistema-Gestao-Biblioteca" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/></a>
-<p><strong>Python, Pandas, Matplotlib</strong> - Análise exploratória de dados com visualizações e insights.</p>
+<p><strong>T-SQL (SQL Server)</strong> - Focado na modelagem de dados para controle de acervo, empréstimos, membros e multas.</p>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">📈 Dashboard Power BI</h3>
+<h3 align="center">📖 Curso de Aplicação de Banco de Dados</h3>
 <div align="center">
-<a href="https://github.com/SEU_USERNAME/NOME_DO_REPOSITORIO" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/></a>
-<p><strong>Power BI, DAX, SQL</strong> - Dashboard interativo com métricas de negócio.</p>
+<a href="https://github.com/larizzzer/aplicacao-banco-de-dados" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/></a>
+<p><strong>SQL, Modelagem de Dados, Power BI</strong> - Repositório de aprendizado em bancos de dados, com práticas em SQL, modelagem de dados e integração com Power BI, utilizando MySQL e SQL Server.</p>
 </div>
 </td>
 </tr>
 <tr>
 </table>
 
-### Aleatoridades
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czM2dTFpZDhhNm5mb3p6cGI5ZGJrazFnMTgyMzhwMHRldzY1eTk0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eyEYDBQE2zu3bwIJAP/giphy.gif" alt="Matrix Banner"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larizzzer&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizzzer&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+### 🎲 Aleatoridades sobre mim
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTk0OGwxdXNnYTNwbnZ4cHQyOGZhcWpjMmdlc3N5aDBsb28yMjE5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sZPQXNBBN7mbDALod9/giphy.gif" width="300"/>
+
+```yaml
+Personalidade:
+  café: "☕ Nescau e música são os meus combustíveis essenciais para começar o dia"
+  música_a_qualquer_momento: "🎵 Indie, Lo-Fi, Rock e Pop"
+  atualmente_jogando: "Red Dead Redemption 2, Life Is Strange"
+  o_que_eu_amo: "GATOS"
+
+Hobbies:
+🎮 Sempre gosto de estar jogando nas horas vagas
+📚 Ler sobre Ficção Cientifíca (estou voltando com o hábito de leitura)
+🎬 Maratonar filmes da Marvel
+🌎 Conhecer novos lugares ou revisitar lugares
+
+Curiosidades:
+☁️ Cloud parece complexo, mas é aí que fica interessante
+🧠 Aprendo muito melhor testando do que só lendo
+💡 Vejo dados como peças de um quebra-cabeça
+✨ Curiosidade é meu superpoder
+🛠️ Testar, quebrar e refazer faz parte do meu aprendizado
+🐈 Esse gatinho do lado se parece com o meu
+
+Filosofia_de_vida:
+"Se eu não sei, fuço até descobrir como saber."
+"Café não resolve meus problemas e faz eu ir no banheiro."
+"Não estou pedindo para você nunca desistir, às vezes você precisa deixar ir. Só não deixe ninguém mudar quem você é."
