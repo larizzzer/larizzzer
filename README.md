@@ -65,7 +65,7 @@ class DataAnalyst:
 - ☁️ Estudando para certificação Cloud Pratictioner da **AWS**
 - 🐍 Aprimorando **Python** para análise de dados
 - 📈 Criando dashboards no **Power BI**
-- 💾 Praticando **SQL** e **T-SQL**
+- 💾 Praticando **SQL** e **Python**
 - 🎯 Construindo **portfólio de projetos**
 
 <br clear="right"/>
