@@ -93,9 +93,9 @@ class DataAnalyst:
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">📊 AcessoryHub</h3>
+<h3 align="center">🎲 AcessoryHub</h3>
 <div align="center">
-<a href="https://github.com/larizzzer/aplicacao-banco-de-dados" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/></a>
+<a href="https://github.com/larizzzer/Acessory-Hub" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/></a>
 <p><strong>MySQL, Modelagem de Dados, Power BI</strong> - Projeto em MySQL para gestão de lojas de acessórios, com modelagem de dados em SQL e análise de informações no Power BI..</p>
 </div>
 </td>
