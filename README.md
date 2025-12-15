@@ -112,7 +112,7 @@ class DataAnalyst:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizzzer&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-### 🎲 Aleatoridades sobre mim
+## 🎲 Aleatoridades sobre mim
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cTk0OGwxdXNnYTNwbnZ4cHQyOGZhcWpjMmdlc3N5aDBsb28yMjE5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sZPQXNBBN7mbDALod9/giphy.gif" width="300"/>
 
