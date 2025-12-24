@@ -108,7 +108,7 @@ class DataAnalyst:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=larizzzer&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=larizzzer&currStreakNum=00D9FF&fire=00D9FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&ring=00D9FF&stroke=00D9FF&background=0d1117&hide_border=true" alt="GitHub Streak" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizzzer&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
