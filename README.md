@@ -2,7 +2,7 @@
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Matrix Banner"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8d42f5&center=true&vCenter=true&random=false&width=435&lines=Data+Analytics;Cloud+Computing+|+AWS;Python;MySQL+|+T-SQL;Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8d42f5&center=true&vCenter=true&random=false&width=435&lines=Data+Analytics;Python;MySQL+|+T-SQL;Power+BI;AWS" alt="Typing SVG" />
 </div>
 
 
@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-gomes-gaspar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagomesgaspar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://larizzzer.vercel.app/)
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/larizzzer)
 
 </div>
@@ -104,13 +105,6 @@ class DataAnalyst:
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=larizzzer&currStreakNum=00D9FF&fire=00D9FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&ring=00D9FF&stroke=00D9FF&background=0d1117&hide_border=true" alt="GitHub Streak" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizzzer&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
 ## 🎲 Aleatoridades sobre mim
 
