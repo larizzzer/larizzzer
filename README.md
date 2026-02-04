@@ -100,6 +100,15 @@ class DataAnalyst:
 <p><strong>MySQL, Modelagem de Dados, Power BI</strong> - Projeto em MySQL para gestão de lojas de acessórios, com modelagem de dados em SQL e análise de informações no Power BI..</p>
 </div>
 </td>
+<td width="50%">
+<h3 align="center">🎵 MusicMetrics</h3>
+<div align="center">
+<a href="https://github.com/larizzzer/MusicMetrics" target="_blank">
+<img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
+</a>
+<p><strong>Python, Pandas, Análise de Dados, Power BI</strong> – Projeto focado na análise de dados musicais, explorando métricas de popularidade, artistas e tendências por meio de tratamento, análise e visualização de dados.</p>
+</div>
+</td>
 </tr>
 <tr>
 </table>
