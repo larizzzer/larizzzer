@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-gomes-gaspar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissagomesgaspar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://larizzzer.vercel.app/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/larissa-gomes-gaspar)
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/larizzzer)
 
 </div>
@@ -58,16 +59,24 @@ class DataAnalyst:
 
 ---
 
+## 🏅 Certificações
+
+<div align="center">
+  <a href="https://www.credly.com/badges/55c6120e-1345-4a28-a54f-f42b8b8674e4/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Cloud Practitioner"/>
+  </a>
+</div>
+
+---
+
 ## 🎯 Foco Atual
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
-- 📊 Desenvolvendo habilidades em **Data Analytics**
-- ☁️ Estudando para certificação Cloud Pratictioner da **AWS**
-- 🐍 Aprimorando **Python** para análise de dados
-- 📈 Criando dashboards no **Power BI**
-- 💾 Praticando **SQL** e **Python**
-- 🎯 Construindo **portfólio de projetos**
+- ☁️ Certificada **AWS Cloud Practitioner** | Graduada no programa **AWS re/Start**
+- 📊 Desenvolvendo projetos de **Data Analytics** com Python, SQL e Power BI
+- 🐍 Aprofundando em **Pandas** e bibliotecas de análise de dados
+- 🎯 Expandindo o **portfólio** com projetos end-to-end
 
 <br clear="right"/>
 
@@ -123,7 +132,7 @@ class DataAnalyst:
 Personalidade:
   de_manhã: "☕ Nescau e música são os meus combustíveis essenciais para começar o dia"
   música_a_qualquer_momento: "🎵 Indie, Lo-Fi, Rock e Pop"
-  atualmente_jogando: "Red Dead Redemption 2, Life Is Strange"
+  atualmente_jogando: "Life Is Strange, Cyberpunk 2077, RE Village, Fabledom, Hozy"
   o_que_eu_amo: "GATOS"
 
 Hobbies:
