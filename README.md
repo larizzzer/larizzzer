@@ -24,11 +24,10 @@ class DataAnalyst:
         self.name = "Larissa Gomes Gaspar"
         self.age = "24"
         self.location = "São Paulo, Brasil 🇧🇷"
-        self.current_focus = "Data Analytics & Cloud AWS"
+        self.current_focus = "Data Analytics"
         
     def daily_routine(self):
         return [
-            "☕ Estudar AWS",
             "📊 Praticar análise de dados",
             "💻 Desenvolver projetos",
             "📚 Aprender novas tecnologias"
@@ -106,7 +105,7 @@ class DataAnalyst:
 <h3 align="center">🎲 AcessoryHub</h3>
 <div align="center">
 <a href="https://github.com/larizzzer/Acessory-Hub" target="_blank"><img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/></a>
-<p><strong>MySQL, Modelagem de Dados, Power BI</strong> - Projeto em MySQL para gestão de lojas de acessórios, com modelagem de dados em SQL e análise de informações no Power BI..</p>
+<p><strong>MySQL, Modelagem de Dados, Power BI</strong> - Projeto em MySQL para gestão de lojas de acessórios, com modelagem de dados em SQL e análise de informações no Power BI.</p>
 </div>
 </td>
 <td width="50%">
