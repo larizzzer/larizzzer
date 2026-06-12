@@ -109,12 +109,12 @@ class DataAnalyst:
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🎵 MusicMetrics</h3>
+<h3 align="center">🏦 RetainIQ</h3>
 <div align="center">
-<a href="https://github.com/larizzzer/MusicMetrics" target="_blank">
+<a href="https://github.com/larizzzer/RetainIQ" target="_blank">
 <img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
 </a>
-<p><strong>Python, Pandas, Análise de Dados, Power BI</strong> – Projeto focado na análise de dados musicais, explorando métricas de popularidade, artistas e tendências por meio de tratamento, análise e visualização de dados.</p>
+<p><strong>Python, Pandas, AWS (S3, RDS), PostgreSQL, Power BI</strong> – Projeto de engenharia e análise de dados que simula um pipeline cloud de uma instituição financeira, focado na ingestão, tratamento e visualização de métricas de churn de clientes.</p>
 </div>
 </td>
 </tr>
