@@ -111,7 +111,7 @@ class DataAnalyst:
 <td width="50%">
 <h3 align="center">🏦 RetainIQ</h3>
 <div align="center">
-<a href="https://github.com/larizzzer/RetainIQ" target="_blank">
+<a href="https://github.com/larizzzer/retain-iq" target="_blank">
 <img src="https://img.shields.io/badge/VER_PROJETO-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto"/>
 </a>
 <p><strong>Python, Pandas, AWS (S3, RDS), PostgreSQL, Power BI</strong> – Projeto de engenharia e análise de dados que simula um pipeline cloud de uma instituição financeira, focado na ingestão, tratamento e visualização de métricas de churn de clientes.</p>
