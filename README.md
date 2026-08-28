@@ -64,6 +64,9 @@ class DataAnalyst:
   <a href="https://www.credly.com/badges/55c6120e-1345-4a28-a54f-f42b8b8674e4/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Cloud Practitioner"/>
   </a>
+  <a href="https://www.credly.com/badges/f8b3859c-d5ff-4752-ba1a-82e5440b4f32/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="150" alt="AWS AI Practitioner"/>
+  </a>
 </div>
 
 ---
@@ -72,7 +75,7 @@ class DataAnalyst:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
-- ☁️ Certificada **AWS Cloud Practitioner** | Graduada no programa **AWS re/Start**
+- ☁️ Certificada **AWS Cloud Practitioner** e **AWS AI Practitioner**  | Graduada no programa **AWS re/Start**
 - 📊 Desenvolvendo projetos de **Data Analytics** com Python, SQL e Power BI
 - 🐍 Aprofundando em **Pandas** e bibliotecas de análise de dados
 - 🎯 Expandindo o **portfólio** com projetos end-to-end
@@ -131,7 +134,7 @@ class DataAnalyst:
 Personalidade:
   de_manhã: "☕ Nescau e música são os meus combustíveis essenciais para começar o dia"
   música_a_qualquer_momento: "🎵 Indie, Lo-Fi, Rock e Pop"
-  atualmente_jogando: "Life Is Strange, Cyberpunk 2077, RE Village, Fabledom, Hozy"
+  atualmente_jogando: "Life Is Strange, Cyberpunk 2077, Homem Aranha 2, GTA V, Fortnite"
   o_que_eu_amo: "GATOS"
 
 Hobbies:
