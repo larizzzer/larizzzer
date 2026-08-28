@@ -61,12 +61,8 @@ class DataAnalyst:
 ## 🏅 Certificações
 
 <div align="center">
-  <a href="https://www.credly.com/badges/55c6120e-1345-4a28-a54f-f42b8b8674e4/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Cloud Practitioner"/>
-  </a>
-  <a href="https://www.credly.com/badges/f8b3859c-d5ff-4752-ba1a-82e5440b4f32/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="150" alt="AWS AI Practitioner"/>
-  </a>
+  <a href="https://www.credly.com/badges/55c6120e-1345-4a28-a54f-f42b8b8674e4/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Cloud Practitioner"/></a>
+  <a href="https://www.credly.com/badges/f8b3859c-d5ff-4752-ba1a-82e5440b4f32/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="150" alt="AWS AI Practitioner"/></a>
 </div>
 
 ---
